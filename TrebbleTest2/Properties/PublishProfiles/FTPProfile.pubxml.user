@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6oIpSrMoeky8XMLTC18WwQAAAAACAAAAAAAQZgAAAAEAACAAAAA8EgIBhlFDs2vZsEme0rzIZlDtsrsbol0p+/Ac5uTNjwAAAAAOgAAAAAIAACAAAAD0KPzls92+TuhvcpvLNb5+KzHw/1QFS7m8L/nYlEjGFDAAAADOkryIiWfHA1ZiTxlKn+hJB+MnqIWMAIYrIsjpsuLtcToMgGIA7OMTlb9HsjGOOwpAAAAAPtv+u3k7KCO5DfUIV6apAYcZbOPiyLXd4KiQUbqCeXWBc+l/qDgGcizgfYZdowb6cGtd5nGu18iDqPdH8cEhNQ==</EncryptedPassword>
+    <_PublishTargetUrl>ftp://sl2258.web.hostpoint.ch/home/serarocu/www/ghost-ivy.com/API3</_PublishTargetUrl>
+    <History>False|2021-11-15T11:58:44.3090124Z;False|2021-11-15T12:56:27.1077581+01:00;False|2021-11-15T12:53:48.2241473+01:00;False|2021-11-15T12:51:10.0207597+01:00;False|2021-11-15T12:49:14.2665130+01:00;</History>
+  </PropertyGroup>
+</Project>
